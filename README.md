@@ -8,7 +8,7 @@
 - 🎯 Looking for: **SDE / Full-stack / ML internships** and entry-level roles
 - 📫 Reach me: **shreyasinha1309@gmail.com**
 - 🔗 LinkedIn: [in/shreyasinha13](https://linkedin.com/in/shreyasinha13)
-- 🌐 Portfolio: https://shreya-sinha-portfolio.vercel.app
+- 🌐 Portfolio: https://shreyasinha.vercel.app
 
 ---
 
